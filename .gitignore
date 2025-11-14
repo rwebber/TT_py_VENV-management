@@ -1,0 +1,24 @@
+# virtual ENV
+# NOTE: must work with default Pythoner distribution
+
+
+### Binary files.
+/*.zip
+/*.izz
+
+### Folders
+/.idea
+/Virtual_Env
+# 'Example' folders are used to collect for ZIP release on https://troikatronix.com/add-ons/
+/*Example*
+/HIDE
+/YouTube
+# Isadora binary files
+/*.izz
+# generated with generator.py to be included at TXT within Isadora as injected modules
+/*_gz64.txt
+
+### Sub-Folders
+/python_modules/*copy*
+/python_modules/*hide*
+/python_modules/UNUSED/

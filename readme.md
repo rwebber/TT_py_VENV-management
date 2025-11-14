@@ -124,4 +124,4 @@ See the included `LICENSE.txt` for full details.
 ![Creative Coding](https://img.shields.io/badge/Creative%20Coding-purple?style=for-the-badge)
 ![Isadora](https://img.shields.io/badge/TroikaTronix-Isadora-8e44ad?style=for-the-badge)
 
-![Pythoner](https://img.shields.io/badge/Pythoner-Compatible-306998?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Pythoner-Compatible-306998?style=for-the-badge&logo=python)

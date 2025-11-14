@@ -74,5 +74,21 @@ Thanks for using DX Python Tools! If you build something cool using these actors
 ---
 
 ## 🙏 **Credits**
-Developed by **Ryan Webber (DusX)**  
-Part of ongoing tooling and workflow improvements for **TroikaTronix Isadora**.
+
+This project was created by **Ryan Webber (DusX)**  
+Toronto-based multimedia programmer, creative technologist, and member of the TroikaTronix development team.
+
+You are free to use, modify, and build upon this project.  
+If you do, **please include attribution**:
+
+**Credit:**  
+_“Includes code or assets by Ryan Webber (DusX)”_  
+https://dusxproductions.com
+
+### Licensing
+This project uses a **dual-license model**:
+
+- **Code:** MIT License — free to use commercially or non-commercially with attribution  
+- **Media, documentation & artistic assets:** Creative Commons Attribution 4.0 (CC-BY 4.0)
+
+See the included `LICENSE.txt` for full details.
